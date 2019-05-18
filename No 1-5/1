@@ -1,0 +1,17 @@
+{
+  "name": "William Roridande Aphrodita",
+  "address" : "Jatinom RT 05 RW 02 Desa Jatisrono Kecamatan Jatisrono",
+  "hobbies": [
+    "badminton",
+    "gaming"
+    
+  ],
+  "is_married": false,
+  "object": {
+    "HighSchool": "SMA N 1 Jatisrono",
+    "University": "Telkom University"
+  },
+  "skills" : [{"name": "HTML&CSS", "score" : 4},{"name" : "Javascript", "score" : 3.5}, {"name": "ReactJS", "score" : 3}, {"name" : "PHP", "score": 3}, {"name" : "MYSQL", "score":4}]
+    
+  
+}
